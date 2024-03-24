@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Veeresh Surya C
-- 👀 I’m interested in Application Development
-- 🌱 I’m currently learning Software development using .Net
+- 🌱 I’m currently working as a full stack deveoper at Tetherfi
 - 💞️ Search me on google by typing my full name 
 - 📫 Reach me out Veereshgaddi94@gmail.com
 
